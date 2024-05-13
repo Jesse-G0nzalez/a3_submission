@@ -232,7 +232,7 @@
 		{
 			"backtrace" : 1,
 			"component" : "Unspecified",
-			"destination" : "lib/a3_skeleton",
+			"destination" : "lib/a3_submission",
 			"paths" : 
 			[
 				"sample"
@@ -244,7 +244,7 @@
 		{
 			"backtrace" : 1,
 			"component" : "Unspecified",
-			"destination" : "lib/a3_skeleton",
+			"destination" : "lib/a3_submission",
 			"paths" : 
 			[
 				"liblaserprocessing.so"
@@ -256,7 +256,7 @@
 		{
 			"backtrace" : 2,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"data"
@@ -269,7 +269,7 @@
 			"destination" : "share/ament_index/resource_index/package_run_dependencies",
 			"paths" : 
 			[
-				"build/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/a3_skeleton"
+				"build/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/a3_submission"
 			],
 			"type" : "file"
 		},
@@ -279,14 +279,14 @@
 			"destination" : "share/ament_index/resource_index/parent_prefix_path",
 			"paths" : 
 			[
-				"build/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/a3_skeleton"
+				"build/ament_cmake_index/share/ament_index/resource_index/parent_prefix_path/a3_submission"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 16,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton/environment",
+			"destination" : "share/a3_submission/environment",
 			"paths" : 
 			[
 				"/opt/ros/humble/share/ament_cmake_core/cmake/environment_hooks/environment/ament_prefix_path.sh"
@@ -296,7 +296,7 @@
 		{
 			"backtrace" : 17,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton/environment",
+			"destination" : "share/a3_submission/environment",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/ament_prefix_path.dsv"
@@ -306,7 +306,7 @@
 		{
 			"backtrace" : 18,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton/environment",
+			"destination" : "share/a3_submission/environment",
 			"paths" : 
 			[
 				"/opt/ros/humble/share/ament_cmake_core/cmake/environment_hooks/environment/path.sh"
@@ -316,7 +316,7 @@
 		{
 			"backtrace" : 19,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton/environment",
+			"destination" : "share/a3_submission/environment",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/path.dsv"
@@ -326,7 +326,7 @@
 		{
 			"backtrace" : 21,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/local_setup.bash"
@@ -336,7 +336,7 @@
 		{
 			"backtrace" : 22,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/local_setup.sh"
@@ -346,7 +346,7 @@
 		{
 			"backtrace" : 23,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/local_setup.zsh"
@@ -356,7 +356,7 @@
 		{
 			"backtrace" : 24,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/local_setup.dsv"
@@ -366,7 +366,7 @@
 		{
 			"backtrace" : 25,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"build/ament_cmake_environment_hooks/package.dsv"
@@ -379,25 +379,25 @@
 			"destination" : "share/ament_index/resource_index/packages",
 			"paths" : 
 			[
-				"build/ament_cmake_index/share/ament_index/resource_index/packages/a3_skeleton"
+				"build/ament_cmake_index/share/ament_index/resource_index/packages/a3_submission"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 32,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton/cmake",
+			"destination" : "share/a3_submission/cmake",
 			"paths" : 
 			[
-				"build/ament_cmake_core/a3_skeletonConfig.cmake",
-				"build/ament_cmake_core/a3_skeletonConfig-version.cmake"
+				"build/ament_cmake_core/a3_submissionConfig.cmake",
+				"build/ament_cmake_core/a3_submissionConfig-version.cmake"
 			],
 			"type" : "file"
 		},
 		{
 			"backtrace" : 33,
 			"component" : "Unspecified",
-			"destination" : "share/a3_skeleton",
+			"destination" : "share/a3_submission",
 			"paths" : 
 			[
 				"package.xml"

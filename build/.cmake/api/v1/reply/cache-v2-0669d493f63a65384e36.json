@@ -955,7 +955,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "a3_skeleton"
+			"value" : "a3_submission"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -2131,6 +2131,42 @@
 		},
 		{
 			"name" : "a3_skeleton_SOURCE_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/jesse/ros2_ws/src/a3_submission"
+		},
+		{
+			"name" : "a3_submission_BINARY_DIR",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "/home/jesse/ros2_ws/src/a3_submission/build"
+		},
+		{
+			"name" : "a3_submission_IS_TOP_LEVEL",
+			"properties" : 
+			[
+				{
+					"name" : "HELPSTRING",
+					"value" : "Value Computed by CMake"
+				}
+			],
+			"type" : "STATIC",
+			"value" : "ON"
+		},
+		{
+			"name" : "a3_submission_SOURCE_DIR",
 			"properties" : 
 			[
 				{

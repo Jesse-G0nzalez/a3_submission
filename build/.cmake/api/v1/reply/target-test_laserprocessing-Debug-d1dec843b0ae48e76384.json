@@ -184,7 +184,7 @@
 				},
 				{
 					"backtrace" : 16,
-					"define" : "ROS_PACKAGE_NAME=\"a3_skeleton\""
+					"define" : "ROS_PACKAGE_NAME=\"a3_submission\""
 				}
 			],
 			"includes" : 

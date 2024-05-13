@@ -185,17 +185,17 @@ uninstall/fast:
 .PHONY : uninstall/fast
 
 #=============================================================================
-# Target rules for targets named a3_skeleton_uninstall
+# Target rules for targets named a3_submission_uninstall
 
 # Build rule for target.
-a3_skeleton_uninstall: cmake_check_build_system
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 a3_skeleton_uninstall
-.PHONY : a3_skeleton_uninstall
+a3_submission_uninstall: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 a3_submission_uninstall
+.PHONY : a3_submission_uninstall
 
 # fast build rule for target.
-a3_skeleton_uninstall/fast:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_skeleton_uninstall.dir/build.make CMakeFiles/a3_skeleton_uninstall.dir/build
-.PHONY : a3_skeleton_uninstall/fast
+a3_submission_uninstall/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_submission_uninstall.dir/build.make CMakeFiles/a3_submission_uninstall.dir/build
+.PHONY : a3_submission_uninstall/fast
 
 #=============================================================================
 # Target rules for targets named laserprocessing
@@ -371,7 +371,7 @@ help:
 	@echo "... list_install_components"
 	@echo "... rebuild_cache"
 	@echo "... test"
-	@echo "... a3_skeleton_uninstall"
+	@echo "... a3_submission_uninstall"
 	@echo "... uninstall"
 	@echo "... gtest"
 	@echo "... gtest_main"

@@ -69,8 +69,8 @@
 			}
 		]
 	},
-	"id" : "a3_skeleton_uninstall::@6890427a1f51a3e7e1df",
-	"name" : "a3_skeleton_uninstall",
+	"id" : "a3_submission_uninstall::@6890427a1f51a3e7e1df",
+	"name" : "a3_submission_uninstall",
 	"paths" : 
 	{
 		"build" : ".",
@@ -98,13 +98,13 @@
 		{
 			"backtrace" : 9,
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/a3_skeleton_uninstall",
+			"path" : "build/CMakeFiles/a3_submission_uninstall",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/CMakeFiles/a3_skeleton_uninstall.rule",
+			"path" : "build/CMakeFiles/a3_submission_uninstall.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

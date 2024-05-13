@@ -75,7 +75,7 @@ preinstall: gtest/preinstall
 
 # The main recursive "clean" target.
 clean: CMakeFiles/uninstall.dir/clean
-clean: CMakeFiles/a3_skeleton_uninstall.dir/clean
+clean: CMakeFiles/a3_submission_uninstall.dir/clean
 clean: CMakeFiles/laserprocessing.dir/clean
 clean: CMakeFiles/sample.dir/clean
 clean: CMakeFiles/test_laserprocessing.dir/clean
@@ -102,7 +102,7 @@ gtest/clean: gtest/CMakeFiles/gtest_main.dir/clean
 # Target rules for target CMakeFiles/uninstall.dir
 
 # All Build rule for target.
-CMakeFiles/uninstall.dir/all: CMakeFiles/a3_skeleton_uninstall.dir/all
+CMakeFiles/uninstall.dir/all: CMakeFiles/a3_submission_uninstall.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/uninstall.dir/build.make CMakeFiles/uninstall.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/uninstall.dir/build.make CMakeFiles/uninstall.dir/build
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles --progress-num= "Built target uninstall"
@@ -125,30 +125,30 @@ CMakeFiles/uninstall.dir/clean:
 .PHONY : CMakeFiles/uninstall.dir/clean
 
 #=============================================================================
-# Target rules for target CMakeFiles/a3_skeleton_uninstall.dir
+# Target rules for target CMakeFiles/a3_submission_uninstall.dir
 
 # All Build rule for target.
-CMakeFiles/a3_skeleton_uninstall.dir/all:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_skeleton_uninstall.dir/build.make CMakeFiles/a3_skeleton_uninstall.dir/depend
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_skeleton_uninstall.dir/build.make CMakeFiles/a3_skeleton_uninstall.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles --progress-num= "Built target a3_skeleton_uninstall"
-.PHONY : CMakeFiles/a3_skeleton_uninstall.dir/all
+CMakeFiles/a3_submission_uninstall.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_submission_uninstall.dir/build.make CMakeFiles/a3_submission_uninstall.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_submission_uninstall.dir/build.make CMakeFiles/a3_submission_uninstall.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles --progress-num= "Built target a3_submission_uninstall"
+.PHONY : CMakeFiles/a3_submission_uninstall.dir/all
 
 # Build rule for subdir invocation for target.
-CMakeFiles/a3_skeleton_uninstall.dir/rule: cmake_check_build_system
+CMakeFiles/a3_submission_uninstall.dir/rule: cmake_check_build_system
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles 0
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/a3_skeleton_uninstall.dir/all
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/a3_submission_uninstall.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles 0
-.PHONY : CMakeFiles/a3_skeleton_uninstall.dir/rule
+.PHONY : CMakeFiles/a3_submission_uninstall.dir/rule
 
 # Convenience name for target.
-a3_skeleton_uninstall: CMakeFiles/a3_skeleton_uninstall.dir/rule
-.PHONY : a3_skeleton_uninstall
+a3_submission_uninstall: CMakeFiles/a3_submission_uninstall.dir/rule
+.PHONY : a3_submission_uninstall
 
 # clean rule for target.
-CMakeFiles/a3_skeleton_uninstall.dir/clean:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_skeleton_uninstall.dir/build.make CMakeFiles/a3_skeleton_uninstall.dir/clean
-.PHONY : CMakeFiles/a3_skeleton_uninstall.dir/clean
+CMakeFiles/a3_submission_uninstall.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/a3_submission_uninstall.dir/build.make CMakeFiles/a3_submission_uninstall.dir/clean
+.PHONY : CMakeFiles/a3_submission_uninstall.dir/clean
 
 #=============================================================================
 # Target rules for target CMakeFiles/laserprocessing.dir

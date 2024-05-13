@@ -11,7 +11,7 @@
 						1
 					],
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-4bcd5b015871afd43fab.json",
+					"jsonFile" : "directory-.-Debug-e0561eb2e9d1fceef9a5.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.5"
@@ -56,7 +56,7 @@
 					[
 						0
 					],
-					"name" : "a3_skeleton",
+					"name" : "a3_submission",
 					"targetIndexes" : 
 					[
 						0,
@@ -84,50 +84,50 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "a3_skeleton_uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-a3_skeleton_uninstall-Debug-90e891fd0adcd308df2f.json",
-					"name" : "a3_skeleton_uninstall",
+					"id" : "a3_submission_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-a3_submission_uninstall-Debug-e339ac8bab37da12220c.json",
+					"name" : "a3_submission_uninstall",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "gtest::@0af4add9fe94340e763e",
-					"jsonFile" : "target-gtest-Debug-5f023635797942c6f161.json",
+					"jsonFile" : "target-gtest-Debug-1b6be085e2e2250ca0bb.json",
 					"name" : "gtest",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 1,
 					"id" : "gtest_main::@0af4add9fe94340e763e",
-					"jsonFile" : "target-gtest_main-Debug-6fdab0d287867bb91692.json",
+					"jsonFile" : "target-gtest_main-Debug-499ece1ba4f709445c62.json",
 					"name" : "gtest_main",
 					"projectIndex" : 1
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "laserprocessing::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-laserprocessing-Debug-de55d5205009822e6890.json",
+					"jsonFile" : "target-laserprocessing-Debug-453d13bf8984e6f405ff.json",
 					"name" : "laserprocessing",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "sample::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-sample-Debug-57fe7b4409bca6807254.json",
+					"jsonFile" : "target-sample-Debug-2320c354fab926d19e04.json",
 					"name" : "sample",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "test_laserprocessing::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-test_laserprocessing-Debug-42f7d2788858293bd844.json",
+					"jsonFile" : "target-test_laserprocessing-Debug-d1dec843b0ae48e76384.json",
 					"name" : "test_laserprocessing",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "uninstall::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-uninstall-Debug-cc7bd177961267bc0000.json",
+					"jsonFile" : "target-uninstall-Debug-0c82167fed432cecd366.json",
 					"name" : "uninstall",
 					"projectIndex" : 0
 				}

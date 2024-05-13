@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(a3_skeleton)
+project(a3_submission)
 
 # Default to C++17
 if(NOT CMAKE_CXX_STANDARD)

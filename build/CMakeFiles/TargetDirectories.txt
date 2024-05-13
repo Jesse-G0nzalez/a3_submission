@@ -1,5 +1,5 @@
 /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/uninstall.dir
-/home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/a3_skeleton_uninstall.dir
+/home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/a3_submission_uninstall.dir
 /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/laserprocessing.dir
 /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/sample.dir
 /home/jesse/ros2_ws/src/a3_submission/build/CMakeFiles/test_laserprocessing.dir

@@ -172,7 +172,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=a3_skeleton
+CMAKE_PROJECT_NAME:STATIC=a3_submission
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/usr/bin/ranlib
@@ -301,6 +301,15 @@ a3_skeleton_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 a3_skeleton_SOURCE_DIR:STATIC=/home/jesse/ros2_ws/src/a3_submission
+
+//Value Computed by CMake
+a3_submission_BINARY_DIR:STATIC=/home/jesse/ros2_ws/src/a3_submission/build
+
+//Value Computed by CMake
+a3_submission_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+a3_submission_SOURCE_DIR:STATIC=/home/jesse/ros2_ws/src/a3_submission
 
 //The directory containing a CMake configuration file for action_msgs.
 action_msgs_DIR:PATH=/opt/ros/humble/share/action_msgs/cmake
